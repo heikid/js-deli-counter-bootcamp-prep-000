@@ -5,12 +5,3 @@ function currentLine (line){
   return "The line is currently empty."
 }
 
-var katzDeliLine = []
-
-function takeANumber (katzDeliLine, name){
-
-}
-
-function nowServing {
-
-}
